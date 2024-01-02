@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nuriddin Khudayberganov</h1>
-<h3 align="center">I am Backend Software Engineer with Bachelor of Science(B.S) in Computer Science and Engineering From INHA University in Tashkent and 2 years of software development experience I'm experienced in Frontend and Backend Development using Java Core, Java Spring Boot, Oracle, MySQL, PostgreSQL, PL/SQL, Design Patterns, RabbitMQ, Microservices, Model View Controller(MVC). I have also designed and developed Admin Panel in Frontend using VueJS, Vuetify, HTML, CSS, Thymeleaf, XML, JavaScript. When working on a new project, I like to speak with client so that i can have a clear understanding of their needs and vision of the project. Thank you in advance for your time and consideration. I look forward to working with you soon. Experienced in working directly with clients to ensure all the goals of a project are achieved and met within scope and budget.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khudayberganovnuriddin&label=Profile%20views&color=0e75b6&style=flat" alt="khudayberganovnuriddin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khudayberganovnuriddin" alt="khudayberganovnuriddin" /></a> </p>

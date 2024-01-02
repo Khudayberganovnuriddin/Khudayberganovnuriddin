@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nuriddin Khudayberganov</h1>
-<h3 align="center">My name is Nuriddin. My main part of job is writing code for Banking system and as you guess i use Java, Spring Boot, Oracle some times Postgresql</h3>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nuriddin Khudayberganov
 ===============================================================================================================================================
 
 Java Software Engineer
 ----------------------
 
-I've been learning to code for more than 4 years and working in Banking system
+I've been learning to code for more than 4 years and working in Banking system. My name is Nuriddin. My main part of job is writing code for Banking system and as you guess i use Java, Spring Boot, Oracle some times Postgresql
 
 *   🌍  I'm based in Tashkent, Uzbekistan
 *   ✉️  You can contact me at [khudayberganovnuriddin@gmail.com](mailto:khudayberganovnuriddin@gmail.com)

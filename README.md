@@ -10,6 +10,7 @@ I've been learning to code for more than 4 years and working in Banking system
 *   ✉️  You can contact me at [khudayberganovnuriddin@gmail.com](mailto:khudayberganovnuriddin@gmail.com)
 *   🧠  I'm learning Quarkus, Design Patterns, Docker, Kubernetes
 *   🤝  I'm open to collaborating on any kind of projects
+
 <a href="https://www.github.com/khudayberganovnuriddin" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/khudayberganovnuriddin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 

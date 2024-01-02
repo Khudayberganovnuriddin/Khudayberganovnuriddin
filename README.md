@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nuriddin Khudayberganov</h1>
+<h3 align="center">My name is Nuriddin. My main part of job is writing code for Banking system and as you guess i use Java, Spring Boot, Oracle some times Postgresql</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khudayberganovnuriddin&label=Profile%20views&color=0e75b6&style=flat" alt="khudayberganovnuriddin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khudayberganovnuriddin" alt="khudayberganovnuriddin" /></a> </p>
@@ -17,6 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khudayberganovnuriddin&show_icons=true&locale=en" alt="khudayberganovnuriddin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khudayberganovnuriddin&" alt="khudayberganovnuriddin" /></p>
+
 
 
 <!--

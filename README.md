@@ -8,7 +8,7 @@ I've been learning to code for more than 4 years and working in Banking system
 
 *   🌍  I'm based in Tashkent, Uzbekistan
 *   ✉️  You can contact me at [khudayberganovnuriddin@gmail.com](mailto:khudayberganovnuriddin@gmail.com)
-*   🧠  I'm learning Quarkus, Design Patterns, Docker, Kubernetes
+*   🧠  I'm learning Quarkus, Reactive, Design Patterns, Docker
 *   🤝  I'm open to collaborating on any kind of projects
 
 <a href="https://www.github.com/khudayberganovnuriddin" target="_blank" rel="noreferrer"><img
